@@ -1,1 +1,1 @@
-a demo thingy
+print("a demo thingy")
